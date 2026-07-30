@@ -25,7 +25,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na CESAR School** e desenv
 
 ## Stack
 
-Tudo abaixo está em uso nos meus repositórios. Não é lista de desejo.
+Tudo abaixo está em uso nos meus repositórios.
 
 <div align="center">
 
@@ -89,19 +89,6 @@ Tudo abaixo está em uso nos meus repositórios. Não é lista de desejo.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=devkappiushon&amp;theme=tokyo-night&amp;bg_color=1A1B27&amp;color=7AA2F7&amp;line=BB9AF7&amp;point=9ECE6A&amp;area=true&amp;hide_border=true&amp;custom_title=Atividade%20de%20commits%20nos%20%C3%BAltimos%206%20meses" alt="Gráfico de atividade de commits" width="98%" />
 
 </div>
-
-<!--
-  BLOCO OPCIONAL: precisa de instância própria do github-readme-stats.
-  A instância pública (github-readme-stats.vercel.app) está com o deploy pausado
-  desde antes de 30/07/2026, então estes dois cards ficariam quebrados aqui.
-  Para ligar: faça o deploy do fork em https://github.com/anuraghazra/github-readme-stats
-  (botão "Deploy to Vercel"), adicione um PAT com escopo `repo` e troque o host abaixo.
-  Ganho real: o rank (S / A+ / A) e a contagem incluindo os repositórios privados,
-  que é onde está a maior parte do meu TypeScript.
-
-<img src="https://SEU-HOST.vercel.app/api?username=devkappiushon&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;rank_icon=percentile&amp;theme=tokyonight&amp;locale=pt-br&amp;hide_border=true" alt="Estatísticas e rank" width="48%" />
-<img src="https://SEU-HOST.vercel.app/api/top-langs/?username=devkappiushon&amp;layout=compact&amp;langs_count=10&amp;count_private=true&amp;custom_title=Tecnologias&amp;theme=tokyonight&amp;hide_border=true" alt="Tecnologias mais usadas" width="48%" />
--->
 
 <br>
 
